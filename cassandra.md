@@ -4,7 +4,7 @@ speaker: 陶佳元
 
 
 
-<slide class="bg-black" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg1.jpg">
+<slide class="bg-black" :class="size-60 aligncenter" image="/bg1.jpg">
 <!-- 首页 -->
 
 # Cassandra  {.text-landing.text-shadow}
@@ -18,9 +18,9 @@ speaker: 陶佳元
 
 
 
-<slide class="bg-black" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-60 aligncenter" image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 ## 分享内容概要
@@ -40,9 +40,9 @@ speaker: 陶佳元
 
 
 
-<slide class="bg-white" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg3.png">
+<slide class="bg-white" :class="size-60 aligncenter" image="/bg3.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo3.png .alignright)
+!![logo](/logo3.png .alignright)
 :::
 
 
@@ -65,9 +65,9 @@ Cassandra，卡珊德拉，为希腊、罗马神话中特洛伊的公主，阿�
 
 
 
-<slide class="bg-white" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg3.png">
+<slide class="bg-white" :class="size-60 aligncenter" image="/bg3.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo3.png .alignright)
+!![logo](/logo3.png .alignright)
 :::
 
 
@@ -86,7 +86,7 @@ Cassandra 是一套开源 **分布式** NoSQL 数据库系统。
 
 &nbsp; 
 
-!![div](http://qiniu.athenagu.com/docs/cassandra.png?imageView2/2/w/160)
+!![div](/cassandra.png?imageView2/2/w/160)
 
 
 
@@ -94,9 +94,9 @@ Cassandra 是一套开源 **分布式** NoSQL 数据库系统。
 
 
 
-<slide class="bg-black" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-60 aligncenter" image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 
@@ -108,7 +108,7 @@ Cassandra 是一套开源 **分布式** NoSQL 数据库系统。
 :::{.text-intro}
 传统的数据库是关系型的，且是按行来存储的
 
-!![div](http://qiniu.athenagu.com/docs/table1.jpg)
+!![div](/table1.jpg)
 
 
 其中只有张三把一行数据填满了，李四、王五、赵六的行都没有填满
@@ -120,9 +120,9 @@ Cassandra 是一套开源 **分布式** NoSQL 数据库系统。
 
 
 
-<slide class="bg-black" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-60 aligncenter" image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 
@@ -132,7 +132,7 @@ Cassandra 是一套开源 **分布式** NoSQL 数据库系统。
 
 :::column {.vertical-align}
 
-!![div](http://qiniu.athenagu.com/docs/table2.jpg)
+!![div](/table2.jpg)
 
 ----
 
@@ -149,9 +149,9 @@ Cassandra 是一套开源 **分布式** NoSQL 数据库系统。
 
 
 
-<slide class="bg-black" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-60 aligncenter" image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 
@@ -162,11 +162,11 @@ Cassandra 是一套开源 **分布式** NoSQL 数据库系统。
 
 :::flexblock {.metrics}
 
-!![div](http://qiniu.athenagu.com/docs/car1.jpg)
+!![div](/car1.jpg)
 
 ----
 
-!![div](http://qiniu.athenagu.com/docs/car2.jpg)
+!![div](/car2.jpg)
 
 :::
 
@@ -174,9 +174,9 @@ Cassandra 是一套开源 **分布式** NoSQL 数据库系统。
 
 
 
-<slide class="bg-black" :class="size-60 " image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-60 " image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 ## 世界由非结构化数据构成{.aligncenter}
@@ -194,9 +194,9 @@ Cassandra 是一套开源 **分布式** NoSQL 数据库系统。
 
 
 
-<slide class="bg-white" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg3.png">
+<slide class="bg-white" :class="size-60 aligncenter" image="/bg3.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo3.png .alignright)
+!![logo](/logo3.png .alignright)
 :::
 
 ## Cassandra VS Redis
@@ -213,9 +213,9 @@ Cassandra 是一套开源 **分布式** NoSQL 数据库系统。
 
 
 
-<slide class="bg-white" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg3.png">
+<slide class="bg-white" :class="size-60 aligncenter" image="/bg3.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo3.png .alignright)
+!![logo](/logo3.png .alignright)
 :::
 
 
@@ -233,9 +233,9 @@ Cassandra 是一套开源 **分布式** NoSQL 数据库系统。
 
 
 
-<slide class="bg-white" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg3.png">
+<slide class="bg-white" :class="size-60 aligncenter" image="/bg3.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo3.png .alignright)
+!![logo](/logo3.png .alignright)
 :::
 
 
@@ -255,9 +255,9 @@ Cassandra 是一套开源 **分布式** NoSQL 数据库系统。
 
 
 
-<slide class="bg-black" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-60 aligncenter" image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 
@@ -285,9 +285,9 @@ Cassandra 是一套开源 **分布式** NoSQL 数据库系统。
 
 
 
-<slide class="bg-white" :class="size-40 aligncenter" image="http://qiniu.athenagu.com/docs/bg3.png">
+<slide class="bg-white" :class="size-40 aligncenter" image="/bg3.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo3.png .alignright)
+!![logo](/logo3.png .alignright)
 :::
 
 
@@ -314,9 +314,9 @@ docker pull cassandra:3
 
 
 
-<slide class="bg-white" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg3.png">
+<slide class="bg-white" :class="size-60 aligncenter" image="/bg3.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo3.png .alignright)
+!![logo](/logo3.png .alignright)
 :::
 
 
@@ -349,9 +349,9 @@ docker run --name cass -p 9042:9042 -v /d/share/cassandra:/var/lib/cassandra -d 
 
 
 
-<slide class="bg-white" :class="size-40 aligncenter" image="http://qiniu.athenagu.com/docs/bg3.png">
+<slide class="bg-white" :class="size-40 aligncenter" image="/bg3.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo3.png .alignright)
+!![logo](/logo3.png .alignright)
 :::
 
 
@@ -388,9 +388,9 @@ data_file_directories:
 
 
 
-<slide class="bg-black" :class="size-80 aligncenter" image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-80 aligncenter" image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 ## CQL
@@ -401,7 +401,7 @@ Cassandra 可以使用 `cqlsh` 进行管理, 使用的语法格式为 CQL。
 
 `docker exec -it cass cqlsh`
 
-!![div](http://qiniu.athenagu.com/docs/cql.jpg)
+!![div](/cql.jpg)
 
 
 
@@ -412,9 +412,9 @@ Cassandra 可以使用 `cqlsh` 进行管理, 使用的语法格式为 CQL。
 
 
 
-<slide class="bg-black" :class="size-80 aligncenter" image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-80 aligncenter" image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 ## CQL 数据表示方式
@@ -465,9 +465,9 @@ blob     ::=  0x5622af8881
 
 
 
-<slide class="bg-black" :class="size-80 aligncenter" image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-80 aligncenter" image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 ## 数据类型
@@ -525,9 +525,9 @@ blob     ::=  0x5622af8881
 
 
 
-<slide class="bg-black" :class="size-40 aligncenter" image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-40 aligncenter" image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 ## 常用类型
@@ -552,9 +552,9 @@ blob     ::=  0x5622af8881
 
 
 
-<slide class="bg-black" :class="size-80 aligncenter" image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-80 aligncenter" image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 ## 自定义类型
@@ -607,9 +607,9 @@ CREATE TYPE address (
 
 
 
-<slide class="bg-white" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg3.png">
+<slide class="bg-white" :class="size-60 aligncenter" image="/bg3.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo3.png .alignright)
+!![logo](/logo3.png .alignright)
 :::
 
 
@@ -641,9 +641,9 @@ CREATE KEYSPACE examplekey
 
 
 
-<slide class="bg-white" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg3.png">
+<slide class="bg-white" :class="size-60 aligncenter" image="/bg3.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo3.png .alignright)
+!![logo](/logo3.png .alignright)
 :::
 
 
@@ -674,9 +674,9 @@ CREATE COLUMN FAMILY user (
 
 
 
-<slide class="bg-white" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg3.png">
+<slide class="bg-white" :class="size-60 aligncenter" image="/bg3.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo3.png .alignright)
+!![logo](/logo3.png .alignright)
 :::
 
 
@@ -719,9 +719,9 @@ CREATE COLUMN FAMILY user (
 
 
 
-<slide class="bg-white" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg3.png">
+<slide class="bg-white" :class="size-60 aligncenter" image="/bg3.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo3.png .alignright)
+!![logo](/logo3.png .alignright)
 :::
 
 
@@ -757,9 +757,9 @@ CREATE INDEX index_name ON user(age);
 
 
 
-<slide class="bg-black" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-60 aligncenter" image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 
@@ -801,9 +801,9 @@ DELETE FROM NerdMovies WHERE movie = 'Serenity';
 
 
 
-<slide class="bg-black" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-60 aligncenter" image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 
@@ -847,9 +847,9 @@ APPLY BATCH;
 
 
 
-<slide class="bg-black" :class="size-60 aligncenter" image="http://qiniu.athenagu.com/docs/bg2.png">
+<slide class="bg-black" :class="size-60 aligncenter" image="/bg2.png">
 :::header
-!![logo](http://qiniu.athenagu.com/docs/logo2.png .alignright)
+!![logo](/logo2.png .alignright)
 :::
 
 
@@ -886,6 +886,6 @@ session.execute(cql)
 
 
 
-<slide image="http://qiniu.athenagu.com/docs/ending.jpg">
+<slide image="/ending.jpg">
 <!-- ending -->
 
